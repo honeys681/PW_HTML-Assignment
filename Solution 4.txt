@@ -1,0 +1,55 @@
+*HTML TAGS*
+
+HTML tags are like keywords which defines that how web browser will format and display the content. With the help of tags
+All HTML tags must enclosed within < > these brackets. Every tag in HTML perform different tasks.
+These are following tags in HTML...
+
+HTML Text Tags:
+<p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <strong>, <em>, <abbr>, <acronym>, <address>, <bdo>, <blockquote>, <cite>, <q>, <code>, <ins>, <del>, <dfn>, <kbd>, <pre>, <samp>, <var> and <br>
+
+HTML Link Tags:
+<a> and <base>
+
+HTML Image and Object Tags:
+<img>, <area>, <map>, <param> and <object>
+
+HTML List Tags:
+<ul>, <ol>, <li>, <dl>, <dt> and <dd>
+
+HTML Table Tags:
+table, tr, td, th, tbody, thead, tfoot, col, colgroup and caption
+
+HTML Form Tags:
+form, input, textarea, select, option, optgroup, button, label, fieldset and legend
+
+HTML Scripting Tags:
+script and noscript
+
+HTML Tag Examples:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML - doctype tag</title>
+</head>
+<body>
+  <p>It's a paragraph tag.</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+*HTML ELEMENTS*
+
+The HTML element is everything from the start tag to the end tag:
+HTML Element = start tag + Content + end tag
+Example:
+ <tagname> Content </tagname> or
+ <h1> Content </h1> etc.

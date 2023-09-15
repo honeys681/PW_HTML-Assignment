@@ -1,0 +1,16 @@
+The Document Type Declaration as DOCTYPE, is an important declaration in HTML, that specifies the type of document and version of HTML being used in a web page. It helps web browsers and other user agents understand how to interpret and render the content of the web page.
+
+Example:
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Document Type</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>

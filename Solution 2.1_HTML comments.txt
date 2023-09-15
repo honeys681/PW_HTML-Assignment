@@ -1,0 +1,10 @@
+HTML comments are a way to insert non-executable text within an HTML document. Comments are ignored by web browsers and are not  visible on the webpage.
+when we comment anything on HTML so it does removed the rendering of the content in the front end.
+Comments of any code make code easy to understand and increase readability of code.
+Syntax: <! -- --> tags
+
+In HTML, there are three types of comments:
+1. Single-line comment.
+2. Inline comment.
+3. Multi-lines comment.
+
